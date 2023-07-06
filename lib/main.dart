@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.green,
-          title: const Text('Flutter App'),
+          title: const Text('Belajar Flutter'),
         ),
       ),
     );
